@@ -7,8 +7,8 @@
 ## 📊 Dashboard Preview
 
 
-📌 ![Power BI Dashboard](https://your-screenshot-link-here.com/dashboard.png)
-📌 ![Power BI Dashboard](https://your-screenshot-link-here.com/dashboard.png)
+📌 ![Power BI Dashboard](https://github.com/igpriyanshunegi/SuperStore-Sales/blob/main/Dashboard%201.png)
+📌 ![Power BI Dashboard](https://github.com/igpriyanshunegi/SuperStore-Sales/blob/main/Dashboard%202.png)
 
 ---
 
