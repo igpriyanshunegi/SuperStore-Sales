@@ -119,7 +119,7 @@ pip install pandas numpy matplotlib seaborn jupyter
 ```bash
 # 1. Clone the repository
 git clone https://github.com/igpriyanshunegi/SuperStore-Sales.git
-cd superstore-sales-analysis
+cd SuperStore-Sales
 
 # 2. Launch Jupyter
 jupyter notebook SuperStore_Sales_Analysis.ipynb
@@ -156,7 +156,7 @@ Make sure `SuperStore_Sales_Dataset.csv` is in the **same directory** as the not
 
 ## 👤 Author
 
-**Your Name**
+**Priyanshu Negi**
 [GitHub](https://github.com/igpriyanshunegi) · [LinkedIn](https://linkedin.com/in/igpriyanshunegi)
 
 ---
